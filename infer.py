@@ -4,7 +4,7 @@ import random
 from datasets import load_dataset
 import requests
 
-question = "Mike Barnett negotiated many contracts including which player that went on to become general manager of CSKA Moscow of the Kontinental Hockey League?"
+question = "Who was born first out of Aivar Kuusmaa and Andy Summers?"
 
 # Model ID and device setup
 model_id = "PeterJinGo/SearchR1-nq_hotpotqa_train-qwen2.5-7b-em-ppo"
